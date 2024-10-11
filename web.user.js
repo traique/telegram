@@ -5,7 +5,7 @@
 // @author       traique
 // @match        https://*/*
 // @grant        none
-// @icon         https://your-icon-link-here.png
+// @icon         https://imgur.com/a/IyF61ni
 // @downloadURL  https://github.com/traique/telegram/blob/main/web.user.js
 // @updateURL    https://github.com/traique/telegram/blob/main/web.user.js
 // @homepage     https://github.com/traique/telegram
